@@ -2,11 +2,12 @@
     box-sizing: border-box;
     font-family: 'Abel', sans-serif;
     
+    
 }
 
 body {
     background-color: rgb(138, 111, 163);
-    background-image: url("/signo/img/horoscopo-previsao-signos-11-a-17-de-julho_1.jpg");
+    background-image: url("img/horoscopo-previsao-signos-11-a-17-de-julho_1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size:1550px 900px;
