@@ -18,6 +18,7 @@ body {
     height: 100vh;
     overflow: hidden;
 }
+
 main {
     padding: 20px;
     margin: auto;
@@ -32,13 +33,14 @@ main {
 h1 {
     font-family: 'Abel', sans-serif;
 }
-#data{
+
+#data {
     border-style: solid;
     border-radius: 7px;
     margin: 8px;
 }
 
-#nasc{
+#nasc {
     margin: 30px;
 }
 
@@ -60,9 +62,10 @@ h1 {
     border-radius: 30px;
 }
 
-#botao button:hover{
+#botao button:hover {
      box-shadow: 5px 5px 5px rgba(0, 0,0, 0.2900)
 }
- p{
+
+p{
      font-size: 30px;
  }
