@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Abel', sans-serif;
+    
+}
+
+body {
+    background-color: rgb(138, 111, 163);
+    background-image: url("/signo/img/horoscopo-previsao-signos-11-a-17-de-julho_1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:1550px 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+main {
+    padding: 20px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0,0, 0.5296);
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    width: 500px;
+    text-align: center;
+    opacity: 0.95;
+}
+
+h1 {
+    font-family: 'Abel', sans-serif;
+}
+#data{
+    border-style: solid;
+    border-radius: 7px;
+    margin: 8px;
+}
+
+#nasc{
+    margin: 30px;
+}
+
+#botao {
+    border-radius: 30px;
+    margin: 20px;
+}
+
+#botao button {
+    color: #fff;
+    background-color: rgb(62, 34, 70);
+    border: none;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+#botao button:hover{
+     box-shadow: 5px 5px 5px rgba(0, 0,0, 0.2900)
+}
+ p{
+     font-size: 30px;
+ }
