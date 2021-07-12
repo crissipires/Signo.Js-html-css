@@ -4,21 +4,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=dis, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcurt icon" href="img/horoscopo-previsao-signos-11-a-17-de-julho_1.jpg">
     <title>Document</title>
-    <script  type="module" src="./funcoes/index.js"></script>
+    <script  type="module" src="main.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
 </head>
 <body>
     <main>
         <h1>Descubra o seu Signo</h1>
-        <div id="nasc">
-            <label for="date">Ano de nascimento</label>
-            <input type="date" name="date" id="data" required>
-        </div>
+        <form id="form">
+            <div class="nasc">
+                <label for="data">Ano de nascimento</label>
+                <input type="date" id="data" required>
+            </div>
+        </form>
+
         <div id="botao">
-          <button>Clique aqui</button>
+            <button>Clique aqui</button>
         </div>
-        <div id="res">lalalal</div>
+        <div><p id="res"></p></div>
+       
     </main>
 </body>
 </html>

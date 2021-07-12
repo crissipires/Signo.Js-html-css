@@ -10,13 +10,13 @@ const retorna_signo = (signos, data) => {
 
         if ( tipo_comparacao == "and"){
 
-            if ( data >= data_inicio_signo && data <= data_fim_signo ){
+            if ( data >= data_inicio_signo && data < data_fim_signo ){
                 return signo.Nome;
             }
 
         } else if (tipo_comparacao == "or"){
 
-            if ( data >= data_inicio_signo || data <= data_fim_signo ){
+            if ( data >= data_inicio_signo || data < data_fim_signo ){
                 return signo.Nome;
             }
 

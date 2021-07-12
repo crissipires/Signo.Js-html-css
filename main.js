@@ -6,6 +6,7 @@ const button = document.querySelector('#botao');
 
 function verificar() {
     const data_usuario = document.querySelector("#data").value;
+    console.log(data_usuario)
     const data = new Date(data_usuario);
     const nome_signo = retorna_signo(colecao_signos, data);
 
