@@ -1,4 +1,5 @@
-# 💫 Descubra seu signo 
+# Descrição do projeto
+## 💫 Descubra seu signo 
 A aplicação retorna o signo do usuario de acordo com a data informada.
 ## 🧪 Tecnologias
 
@@ -9,3 +10,8 @@ Tecnologias utilizadas neste projeto:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
+## 💻  Visualização
+<p align="center">O site pode ser acessado <a href="https://crissipires.github.io/Signo_Js-html-css/">clicando aqui</a></p>
+<img src="https://i.imgur.com/kCLs7FB.png">
+
