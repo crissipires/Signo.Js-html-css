@@ -12,6 +12,6 @@ Tecnologias utilizadas neste projeto:
 </p>
 
 ## 💻  Visualização
-<p align="center">O site pode ser acessado <a href="https://crissipires.github.io/Signo_Js-html-css/">clicando aqui</a></p>
+<p align="center">O site pode ser acessado <a href="https://crissipires.github.io/Signo.Js-html-css/">clicando aqui</a></p>
 <img src="https://i.imgur.com/kCLs7FB.png">
 
